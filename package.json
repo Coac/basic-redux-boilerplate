@@ -1,5 +1,5 @@
 {
-  "name": "simple-react-redux-boilerplate",
+  "name": "basic-redux-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,11 @@
     "build": "node build/build.js",
     "dev": "node build/webpack-dev-server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperCoac/basic-redux-boilerplate.git"
+  },
+  "homepage": "https://github.com/SuperCoac/basic-redux-boilerplate",
   "keywords": [],
   "author": "Victor Le SuperCoac",
   "license": "MIT",
