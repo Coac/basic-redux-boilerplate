@@ -15,5 +15,7 @@ $ open http://localhost:8080/
 ```
 Running the webpack-dev-server.
 
-## TODO
-Add tests
+## Test
+```
+$ npm run test
+```
